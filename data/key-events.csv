@@ -1,0 +1,9 @@
+date,event_name,page,channel,event_count,key_events,total_users,conversion_rate,revenue
+2026-05-01,form_submit,/contact,Organic Search,85,32,300,10.67,4200
+2026-05-01,book_call_click,/pricing,Direct,70,28,220,12.73,5000
+2026-05-01,phone_click,/contact,Email,45,18,120,15.00,2700
+2026-05-01,quote_request,/services,Paid Search,60,24,250,9.60,3600
+2026-05-01,newsletter_signup,/blog/seo-tips,Social,110,12,500,2.40,600
+2026-05-01,case_study_download,/case-studies,Referral,40,10,150,6.67,1500
+2026-05-01,pricing_page_view,/pricing,Organic Search,180,35,450,7.78,4200
+2026-05-01,service_cta_click,/services,Paid Search,95,26,300,8.67,3600
