@@ -1,0 +1,9 @@
+date,search_term,total_searches,users,engaged_sessions,clicks_after_search,conversions,revenue,top_destination_page
+2026-05-01,pricing,120,95,80,70,25,5000,/pricing
+2026-05-01,seo services,85,68,55,44,14,2800,/services
+2026-05-01,contact,60,48,42,35,18,2700,/contact
+2026-05-01,portfolio,50,40,30,20,5,800,/case-studies
+2026-05-01,digital marketing package,45,36,32,25,10,1800,/services
+2026-05-01,email marketing,35,28,22,15,6,900,/services
+2026-05-01,google ads,30,24,18,12,4,700,/blog/seo-tips
+2026-05-01,free consultation,25,20,18,16,9,1600,/contact
