@@ -1,0 +1,7 @@
+date,channel,landing_page,sessions,engaged_sessions,conversions,revenue
+2026-05-01,Organic Search,/home,1200,850,35,4200
+2026-05-01,Paid Search,/services,600,390,28,3600
+2026-05-01,Direct,/pricing,400,300,25,5000
+2026-05-01,Social,/blog/seo-tips,900,420,6,600
+2026-05-01,Email,/contact,250,180,18,2700
+2026-05-01,Referral,/case-studies,300,210,10,1500
